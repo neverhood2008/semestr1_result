@@ -29,3 +29,4 @@
 14. Отправяем данные на **GITHUB** с помощью команды **git push -u origin main**
 15. Создать ветку в VsCode с помощью команды **git branch newBranch**
 16. Перейти в новую ветку с помощью команды **git checkout newBranch**
+17. Перенести данные на **GITHUB** с помощью команды с новой ветки **git push --set-upstream origin newBranch**
